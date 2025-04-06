@@ -54,6 +54,16 @@ I’m a **senior Computer Engineering student at Hongik University**, passionate
 
 ---
 
+## 📚 Certifications
+
+- 🗣️ **OPIC IH (Intermediate High)**  
+
+- 🗃️ **SQLD (SQL Developer)**  
+
+- 🧪 **정보처리기사 (Engineer Information Processing)** _(In Progress)_  
+
+---
+
 ## Github Stats
 [![Yeobi's GitHub stats](https://github-readme-stats.vercel.app/api?username=Yeobi00&show_icons=true&theme=tokyonight)](https://github.com/Yeobi00)
 
