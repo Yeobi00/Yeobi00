@@ -60,7 +60,7 @@ I’m a **senior Computer Engineering student at Hongik University**, passionate
 
 - 🗃️ **SQLD (SQL Developer)**  
 
-- 🧪 **정보처리기사 (Engineer Information Processing)** _(In Progress)_  
+- 🧪 **정보처리기사 (Engineer Information Processing)**
 
 ---
 
