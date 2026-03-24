@@ -92,13 +92,6 @@ I’m a **senior Computer Engineering student at Hongik University (expected to 
 
 ---
 
-## GitHub Stats
-[![Yeobi's GitHub stats](https://github-readme-stats.vercel.app/api?username=Yeobi00&show_icons=true&theme=tokyonight)](https://github.com/Yeobi00)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Yeobi00&layout=compact&theme=tokyonight)](https://github.com/Yeobi00)
-
----
-
 ## 📫 Contact
 
 <a href="mailto:yeobi.1130@gmail.com">
