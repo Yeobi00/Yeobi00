@@ -21,7 +21,7 @@ I’m a **senior Computer Engineering student at Hongik University (expected to 
 - 📌 [Internal Q&A Platform (Financial Company)](https://github.com/Likelion-Hongik-Business-Project)  
   금융기업 내부 부서 간 반복되는 업무 질의를 효율적으로 관리하기 위한 웹 애플리케이션
 
-- 📌 [DoDutch](https://github.com/LikeLionDemoday)  
+- 📌 [DoDutch](https://github.com/DoDutch)
   여행 경비 정산을 위한 Spring Boot 기반 웹앱 애플리케이션  
 
 - 📌 [Garden](https://github.com/codeit-garden)  
@@ -38,7 +38,7 @@ I’m a **senior Computer Engineering student at Hongik University (expected to 
 ## 💼 Experience
 
 - 🏢 **Software Development Internship**  
-  바삭한소프트 (2025.07.01 ~ 2025.12.29)  
+  바삭한소프트 (2025.07.01 ~ 2025.12.28)  
   Flutter 기반 모바일 시뮬레이션 게임 앱 **수험생키우기** 개발 및 라이브 서비스 운영
 
 ---
@@ -88,7 +88,9 @@ I’m a **senior Computer Engineering student at Hongik University (expected to 
 
 - 🧪 **정보처리기사 (Engineer Information Processing)**
 
-- 🗃️ **SQLD (SQL Developer)**  
+- 🗃️ **SQLD (SQL Developer)**
+
+- 🗃️ **ADsP (Advanced Data Analytics Semi-Professional)**
 
 ---
 
